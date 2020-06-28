@@ -24,7 +24,6 @@ function init() {
     }
     if(i == codes.length) {
       alert("Hurray");
-      console.log('hurray')
     }
   })
 }
