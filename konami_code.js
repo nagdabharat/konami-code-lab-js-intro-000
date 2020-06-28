@@ -26,5 +26,4 @@ function init() {
       alert("Hurray!");
     }
   })
-
 }
