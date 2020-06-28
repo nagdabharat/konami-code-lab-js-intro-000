@@ -22,7 +22,7 @@ function init() {
     } else {
       index = 0;
     }
-    if(i = codes.length) {
+    if(i == codes.length) {
       alert("Hurray!");
     }
   })
