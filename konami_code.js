@@ -20,7 +20,7 @@ function init() {
     if(key === codes[i]) {
       i++;
     } else {
-      index = 0;
+      i = 0;
     }
     if(i == codes.length) {
       alert("Hurray");
